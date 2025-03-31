@@ -1,5 +1,3 @@
-# Nicole Bot Policies
-
 Welcome to the Nicole Bot policies page. This site contains the legal documents related to the use of Nicole Bot.
 
 ## Available Documents
