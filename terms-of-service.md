@@ -1,6 +1,6 @@
 # Terms of Service for Nicole Bot
 
-**Last Updated: [Current Date]**
+**Last Updated: 03/30/2025**
 
 ## Introduction
 These Terms of Service ("Terms") govern your access to and use of Nicole Bot ("the Service"), a Discord bot providing YouTube content creation services. By using the Service, you agree to be bound by these Terms.
