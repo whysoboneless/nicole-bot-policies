@@ -1,6 +1,6 @@
 # Privacy Policy for Nicole Bot
 
-**Last Updated: [Current Date]**
+**Last Updated: 03/30/2025 **
 
 ## Introduction
 
